@@ -1,0 +1,36 @@
+{
+  "users": {
+    "data": [
+      {
+        "id": 1,
+        "email": "john.smith@example.com",
+        "first_name": "John",
+        "last_name": "Smith"
+      },
+      {
+        "id": 2,
+        "email": "mary.jones@example.com",
+        "first_name": "Mary",
+        "last_name": "Jones"
+      },
+      {
+        "id": 3,
+        "email": "alexander.wilson@example.com",
+        "first_name": "Alexander",
+        "last_name": "Wilson"
+      },
+      {
+        "id": 4,
+        "email": "olivia.martin@example.com",
+        "first_name": "Olivia",
+        "last_name": "Martin"
+      },
+      {
+        "id": 5,
+        "email": "nathan.davis@example.com",
+        "first_name": "Nathan",
+        "last_name": "Davis"
+      }
+    ]
+  }
+}
